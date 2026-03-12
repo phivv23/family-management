@@ -1,0 +1,6 @@
+{
+  "/(app)/members/tree/page": "app/(app)/members/tree/page.js",
+  "/(app)/members/[id]/page": "app/(app)/members/[id]/page.js",
+  "/(app)/members/page": "app/(app)/members/page.js",
+  "/(app)/members/new/page": "app/(app)/members/new/page.js"
+}
